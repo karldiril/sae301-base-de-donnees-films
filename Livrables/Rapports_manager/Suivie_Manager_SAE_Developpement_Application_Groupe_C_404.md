@@ -58,7 +58,7 @@ Dépendances critiques : (Rouge)
 
 
 | Tâches | Date début | Date Fin | Responsable | Avancer | Correspond aux attentes |
-| --- | --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 | Composition de l’équipe | 05/10/2026 | 10/10/2026 | Toute l’équipe | Fini | Oui |
 | Nom d’équipe | 11/10/2026 | 11/10/2026 | Toute l’équipe | Fini | Oui |
 | Planifier la répartition du rôle de manager | 11/10/2026 | 11/10/2026 | Théo PALUGAN | Fini | Oui |
