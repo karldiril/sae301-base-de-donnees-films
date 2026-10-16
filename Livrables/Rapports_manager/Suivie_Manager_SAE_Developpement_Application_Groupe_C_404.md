@@ -94,7 +94,7 @@ Ce livrable avait pour but d'analyser les conditions juridiques des données ini
 - La seconde se concentre sur les contraintes techniques qui nous sont imposées par le fait d'utiliser cette base de données. Le dépôt ne doit contenir que le code source, les fichiers de récupération et le schéma relationnel. Pour la récupération des fichiers, nous n'avons pas le droit de les récupérer via d'autres techniques comme le data mining par exemple.
 -  La troisième appuie sur le fait qu'IMDb prévient qu'il y aura moins de pertinence entre les données de la base de données et les données sur leur site, et qu'il se réserve le droit de nous retirer l'autorisation d'utiliser leur base de données.
 - La quatrième concerne le fait que, dès lors que notre plateforme deviendrait un produit commercial ouvert et public et continuerait à utiliser leur jeu de données, il faudrait négocier un accord payant
-- La cinquième se focalise sur la protection des données personnelles. Vu que les données de la base de données ne sont pas personnelles, il n'y aura pas de problème avec le RGPD.
+- La cinquième se focalise sur la protection des données personnelles. Vu que les données de la base de données ne sont pas personnelles, il n'y aura donc normalement aucun problème avec le RGPD.
 
 La difficulté principale lors de ce livrable a été l'anglais et le choix des bonnes règles et des exceptions pour chacune d'entre elles.
 
