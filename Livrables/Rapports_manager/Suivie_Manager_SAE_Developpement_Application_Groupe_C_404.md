@@ -52,7 +52,7 @@ Flèche en pointillés = parallèle
 Les jalons : (Bleu)
 Dépendances critiques : (Rouge)
 
-![Diagramme](Diagramme_Gantt/)
+![Diagramme](Livrables/Rapports_manager/Diagramme_Gantt/Diagramme_Gant_du_05_au18.png)
 
 ### Répartition du travail et avancement : 
 
