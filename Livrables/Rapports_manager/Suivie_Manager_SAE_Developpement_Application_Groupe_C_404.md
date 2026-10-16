@@ -59,13 +59,13 @@ Répartition du travail et avancement :
 | Nom d’équipe | 11/10/2026 | 11/10/2026 | Toute l’équipe | Fini | Oui |
 | Planifier la répartition du rôle de manager | 11/10/2026 | 11/10/2026 | Théo PALUGAN | Fini | Oui |
 | Créer un dépôt | 11/10/2026 | 11/10/2026 | Karl DIRIL / Théo PALUGAN | Fini | Oui |
-| Lecture des conditions juridiques d’utilisation des données | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | En cours | ? ]
-| Analyse de ces conditions | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | En cours | ? ]
-| Rédiger un texte en français des différentes informations issues de l'analyse | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | En cours | ? ]
+| Lecture des conditions juridiques d’utilisation des données | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | En cours | ? |
+| Analyse de ces conditions | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | En cours | ? |
+| Rédiger un texte en français des différentes informations issues de l'analyse | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | En cours | ? |
 | Rapport pour expliquer nos choix de logiciel | 16/10/2026 | 16/10/2026 | Toute l’équipe | En cours | ? |
 | Relecture du document de la SAE | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | En cours | ? |
-| Analyse (but, public visé et particularités) | 16/10/2026 | Théo PALUGAN / Lucas CHEN | En cours | ? |
-| Réaliser un texte explicatif des données analysées | 16/10/2026 | Théo PALUGAN / Lucas CHEN | En cours | ? |
+| Analyse (but, public visé et particularités) | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | En cours | ? |
+| Réaliser un texte explicatif des données analysées | 16/10/2026 | 16/10/2026 |Théo PALUGAN / Lucas CHEN | En cours | ? |
 
 
 
