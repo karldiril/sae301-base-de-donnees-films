@@ -1,9 +1,11 @@
 # Livrable 2 : Analyse des conditions juridiques 
 
 Pour que notre logiciel soit conforme sur le plan contractuel et légal, notre projet doit respecter simultanément deux sources juridiques complémentaires d’IMDb :
-Les conditions générales d’utilisation du service (copyright/license), qui définissent le droit d’auteur et l’accès au site, ainsi que les clauses de la license non commerciale (Non-Commercial Licensing) qui encadrent l’usage des fichiers de données mis à disposition par IMDb.
+Les conditions générales d’utilisation du service ([copyright/license](https://www.imdb.com/conditions?ref_=helpms_ih_gi_usedata)), qui définissent le droit d’auteur et l’accès au site, ainsi que les clauses de la license non commerciale ([Non-Commercial Licensing](https://help.imdb.com/article/imdb/general-information/can-i-use-imdb-data-in-my-software/G5JTRESSHJBBHTGX?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=1ed1aea6-d2ad-4705-95fd-ba13f1b5014f&pf_rd_r=XRE3QWF2G5YWTD2SGT0V&pf_rd_s=center-1&pf_rd_t=60601&pf_rd_i=interfaces&ref_=fea_mn_lk1#)) qui encadrent l’usage des fichiers de données mis à disposition par IMDb.  
 
 
+
+  
 ## 1. Ce que nous avons le droit de faire 
 
 IMDb nous accorde une licence gratuite, non exclusive et non transférable pour télécharger et stocker des copies locales de ces données sur nos machines (Condition of Use section “License And Site Access” des conditions d’utilisation et règle 3 de l’article d’aide “Can I use IMDb data in my software?”). Notre application s’inscrit dans ce cadre, il s’agit bien d’un projet étudiant sans but lucratif, ce qui respecte les attentes.
@@ -29,7 +31,7 @@ Used with permission. ”
 
 ## 3. Garanties et responsabilités
 
-Dans la section “Disclaimer of Warranties and Limitation of Liability” de ses Conditions d’utilisation (copyright/license), IMDb indique que les données sont fournis en l’état et selon disponibilité, sans garantie d’exactitude, de mise à jour ou de continuité de leur service, cela implique que les données risquent d’être moins pertinentes que celles présentes sur leur site web. De plus, la règle 1 de la page d’aide informe qu’IMDb se réserve le droit de retirer l’autorisation d’utiliser les données à tout moment et sans préavis.
+Dans la section “Disclaimer of Warranties and Limitation of Liability” de ses Conditions d’utilisation ([copyright/license](https://www.imdb.com/conditions?ref_=helpms_ih_gi_usedata)), IMDb indique que les données sont fournis en l’état et selon disponibilité, sans garantie d’exactitude, de mise à jour ou de continuité de leur service, cela implique que les données risquent d’être moins pertinentes que celles présentes sur leur site web. De plus, la règle 1 de la page d’aide informe qu’IMDb se réserve le droit de retirer l’autorisation d’utiliser les données à tout moment et sans préavis.
 
 
 ## 4. Droits à négocier en cas d’exploitation commerciale
