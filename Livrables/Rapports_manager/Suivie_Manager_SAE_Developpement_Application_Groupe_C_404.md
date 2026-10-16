@@ -114,9 +114,9 @@ Nous avons donc commencé par une relecture complète du sujet de la SAE, puis n
 
 Le but est donc que n'importe qui puisse accéder à la fiche informative d'un film, acteur et réalisateur, et c'est à ce moment que les particularités font sens, notamment sur les différents types de recherche possible avec trois algorithmes différents qui permettent toutes des façons différentes de rechercher une information avec par exemple juste un nom, une temporalité avec des dates de naissance ou encore un lien entre des acteurs et des films.  
 
-Nous avons également remarqué que la sécurité est une grosse partie du projet, spécifiquement sur l'aspect des injections de code dans la base de données en SQL ou via HTML, mais également sur les permissions de chaque rôle, c'est-à-dire faire en sorte qu'un rôle ne puisse faire uniquement ce qui lui a été autorisé et de correctement répartir ses responsabilités. 
+Nous avons également remarqué que la sécurité est une grosse partie du projet, spécifiquement sur l'aspect des injections SQL et des failles XSS, mais également sur les permissions de chaque rôle, c'est-à-dire faire en sorte qu'un rôle ne puisse faire uniquement ce qui lui a été autorisé et de correctement répartir ses responsabilités. 
 
-Grâce à l'analyse du sujet de la SAE, nous avons pu réussir à réaliser ce livrable sans trop de difficultés. Nous avons donc correctement réalisé un texte expliquant le but, le public visé, les particularités et la sécurité attendue, ce qui veut dire que tous les objectifs à atteindre ont été atteints. Ce livrable nous a permis de mieux comprendre les attendus de l'application et son utilité finale en plus du défi qui va nous être demandé pour être réalisé.
+Grâce à l'analyse du sujet de la SAE, nous avons pu réussir à réaliser ce livrable sans trop de difficultés. Nous avons donc réalisé un texte expliquant le but, le public visé, les particularités et la sécurité attendue, ce qui veut dire que tous les objectifs à atteindre ont été atteints. Ce livrable nous a permis de mieux comprendre les attendus de l'application et son utilité finale en plus du défi qui va nous être demandé pour être réalisé.
 
 
 
