@@ -90,7 +90,7 @@ Les objectifs à atteindre pour le livrable 1 ont tous été atteint car nous av
 Ce livrable avait pour but d'analyser les conditions juridiques des données initiales d'"IMDb". Dans ce cadre, nous avons décidé de réaliser cinq parties distinctes.
 
 
-- La première avait pour but de fixer le périmètre sur ce que nous avions le droit de faire et de ne pas faire. Il se trouve que dans notre cas nous pouvions utiliser cette base de données mais à condition de ne pas mettre en ligne le projet.  
+- La première avait pour but de fixer le périmètre sur ce que nous avions le droit de faire et de ne pas faire. Il se trouve que dans notre cas nous pouvions utiliser cette base de données mais à condition de ne pas mettre en ligne le projet.  
 - La seconde se concentre sur les contraintes techniques qui nous sont imposées par le fait d'utiliser cette base de données. Le dépôt ne doit contenir que le code source, les fichiers de récupération et le schéma relationnel. Pour la récupération des fichiers, nous n'avons pas le droit de les récupérer via d'autres techniques comme le data mining par exemple.
 -  La troisième appuie sur le fait qu'IMDb prévient qu'il y aura moins de pertinence entre les données de la base de données et les données sur leur site, et qu'il se réserve le droit de nous retirer l'autorisation d'utiliser leur base de données.
 - La quatrième concerne le fait que, dès lors que notre plateforme deviendrait un produit commercial ouvert et public et continuerait à utiliser leur jeu de données, il faudrait négocier un accord payant
