@@ -1,4 +1,4 @@
-Livrable 3 : Plateforme de développement 
+# Livrable 3 : Plateforme de développement 
 
 
 Pour ce livrable, nous avons décidé d'expliquer le choix de nos logiciels en précisant pourquoi ce logiciel est adapté à nos besoins et ce qui nous attire sur le logiciel dès
