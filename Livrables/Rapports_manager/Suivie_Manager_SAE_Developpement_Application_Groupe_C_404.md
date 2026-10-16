@@ -59,17 +59,17 @@ Dépendances critiques : (Rouge)
 
 | Tâches | Date début | Date Fin | Responsable | Avancement | Correspond aux attentes |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Composition de l’équipe | 05/10/2026 | 10/10/2026 | Toute l’équipe | Fini | Oui |
-| Nom d’équipe | 11/10/2026 | 11/10/2026 | Toute l’équipe | Fini | Oui |
-| Planifier la répartition du rôle de manager | 11/10/2026 | 11/10/2026 | Théo PALUGAN | Fini | Oui |
-| Créer un dépôt | 11/10/2026 | 11/10/2026 | Karl DIRIL / Théo PALUGAN | Fini | Oui |
-| Lecture des conditions juridiques d’utilisation des données | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Fini | Oui |
-| Analyse de ces conditions | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Fini | Oui |
-| Rédiger un texte en français des différentes informations issues de l'analyse | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Fini | Oui |
-| Rapport pour expliquer nos choix de logiciel | 16/10/2026 | 16/10/2026 | Toute l’équipe | Fini | Oui |
-| Relecture du document de la SAE | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | Fini | Oui |
-| Analyse (but, public visé et particularités) | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | Fini | Oui |
-| Réaliser un texte explicatif des données analysées | 16/10/2026 | 16/10/2026 |Théo PALUGAN / Lucas CHEN | Fini | Oui |
+| Composition de l’équipe | 05/10/2026 | 10/10/2026 | Toute l’équipe | Terminé | Oui |
+| Nom d’équipe | 11/10/2026 | 11/10/2026 | Toute l’équipe | Terminé | Oui |
+| Planifier la répartition du rôle de manager | 11/10/2026 | 11/10/2026 | Théo PALUGAN | Terminé | Oui |
+| Créer un dépôt | 11/10/2026 | 11/10/2026 | Karl DIRIL / Théo PALUGAN | Terminé | Oui |
+| Lecture des conditions juridiques d’utilisation des données | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Terminé | Oui |
+| Analyse de ces conditions | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Terminé | Oui |
+| Rédiger un texte en français des différentes informations issues de l'analyse | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Terminé | Oui |
+| Rapport pour expliquer nos choix de logiciel | 16/10/2026 | 16/10/2026 | Toute l’équipe | Terminé | Oui |
+| Relecture du document de la SAE | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | Terminé | Oui |
+| Analyse (but, public visé et particularités) | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | Terminé | Oui |
+| Réaliser un texte explicatif des données analysées | 16/10/2026 | 16/10/2026 |Théo PALUGAN / Lucas CHEN | Terminé | Oui |
 
 
 ## Évaluation individuelle des livrables : 
@@ -96,7 +96,7 @@ Ce livrable avait pour but d'analyser les conditions juridiques des données ini
 - La quatrième concerne le fait que, dès lors que notre plateforme deviendrait un produit commercial ouvert et public et continuerait à utiliser leur jeu de données, il faudrait négocier un accord payant
 - La cinquième se focalise sur la protection des données personnelles. Vu que les données de la base de données ne sont pas personnelles, il n'y aura pas de problème avec le RGPD.
 
-Nous avons donc atteint l'objectif de ce livrable, car nos différentes analyses nous permettent d'établir le périmètre pour cette base de données et de savoir ce que nous pouvons en faire et ce de manière légale.
+Nous avons donc atteint l'objectif de ce livrable, car nos différentes analyses nous permettent d'établir le périmètre pour cette base de données et de savoir ce que nous pouvons en faire et ce de manière légale. Ce travail nous a donc permis de mieux définir le cadre d'utilisation des données pour notre projet.
 
 
 
