@@ -1,17 +1,17 @@
-Livrable 2 : Analyse des conditions juridiques 
+# Livrable 2 : Analyse des conditions juridiques 
 
 Pour que notre logiciel soit conforme sur le plan contractuel et légal, notre projet doit respecter simultanément deux sources juridiques complémentaires d’IMDb :
 Les conditions générales d’utilisation du service (copyright/license), qui définissent le droit d’auteur et l’accès au site, ainsi que les clauses de la license non commerciale (Non-Commercial Licensing) qui encadrent l’usage des fichiers de données mis à disposition par IMDb.
 
 
-Ce que nous avons le droit de faire 
+## 1. Ce que nous avons le droit de faire 
 
 IMDb nous accorde une licence gratuite, non exclusive et non transférable pour télécharger et stocker des copies locales de ces données sur nos machines (Condition of Use section “License And Site Access” des conditions d’utilisation et règle 3 de l’article d’aide “Can I use IMDb data in my software?”). Notre application s’inscrit dans ce cadre, il s’agit bien d’un projet étudiant sans but lucratif, ce qui respecte les attentes.
 
 Cependant, cette même règle 3 précise que les données ne peuvent pas être modifiées, publiées, revendues ou réutilisées afin de créer une base de données à laquelle on peut accéder en ligne ou hors ligne. Cette contrainte implique que notre application ne peut pas être mise en ligne en accès public sur Internet. Le déploiement doit donc rester dans un environnement privé. 
 
 
-Contraintes techniques imposées au développement
+## 2. Contraintes techniques imposées au développement
 
 Les documents imposent trois obligations pour la réalisation côté technique : 
 
@@ -27,12 +27,12 @@ La règle 4 de cette même page impose d’afficher de façon visible sur l’in
 Used with permission. ”
 
 
-Garanties et responsabilités
+## 3. Garanties et responsabilités
 
 Dans la section “Disclaimer of Warranties and Limitation of Liability” de ses Conditions d’utilisation (copyright/license), IMDb indique que les données sont fournis en l’état et selon disponibilité, sans garantie d’exactitude, de mise à jour ou de continuité de leur service, cela implique que les données risquent d’être moins pertinentes que celles présentes sur leur site web. De plus, la règle 1 de la page d’aide informe qu’IMDb se réserve le droit de retirer l’autorisation d’utiliser les données à tout moment et sans préavis.
 
 
-Droits à négocier en cas d’exploitation commerciale
+## 4. Droits à négocier en cas d’exploitation commerciale
 
 Dans le cas où notre plateforme deviendrait un produit commercial ouvert au public (avec des fonctionnalités payantes ou de la publicité), les jeux de données utilisés ne seraient plus légalement utilisables.
 
@@ -40,6 +40,6 @@ Pour régulariser cette activité, il faudrait contacter le service des licences
 
 Cet accord devrait notamment permettre de lever l’interdiction d’exploitation commerciale (à but lucratif) et l’interdiction de créer une base accessible en ligne au public (règle 3) et négocier l’accès à des données telles que les affiches de films par exemple, absentes des fichiers gratuits (règle 2).
 
-Protection des données personnelles et RGPD
+## 5. Protection des données personnelles et RGPD
 
 Notre projet porte principalement sur des informations relatives aux films, notamment leurs titres, leurs années de sortie, leurs genres et leurs notes. Ces données ne constituent généralement pas, à elles seules, des données personnelles, donc le RGPD ne s'applique pas directement à leurs utilisations. Cependant, si notre logiciel venait à collecter des informations sur ses utilisateurs, nous devons respecter les règles du RGPD (article 4, paragraphe 1, https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1). Pour ce qui est des acteurs présents dans les jeux de données, étant déjà présents dans ces données de manière publique, cela autorise leur traitement sans avoir à recueillir leur consentement individuel.
