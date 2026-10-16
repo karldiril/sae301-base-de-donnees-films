@@ -63,10 +63,10 @@ Dépendances critiques : (Rouge)
 | Nom d’équipe | 11/10/2026 | 11/10/2026 | Toute l’équipe | Fini | Oui |
 | Planifier la répartition du rôle de manager | 11/10/2026 | 11/10/2026 | Théo PALUGAN | Fini | Oui |
 | Créer un dépôt | 11/10/2026 | 11/10/2026 | Karl DIRIL / Théo PALUGAN | Fini | Oui |
-| Lecture des conditions juridiques d’utilisation des données | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | En cours | ? |
-| Analyse de ces conditions | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | En cours | ? |
-| Rédiger un texte en français des différentes informations issues de l'analyse | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | En cours | ? |
-| Rapport pour expliquer nos choix de logiciel | 16/10/2026 | 16/10/2026 | Toute l’équipe | En cours | ? |
+| Lecture des conditions juridiques d’utilisation des données | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Fini | Partiellement il manque des élément |
+| Analyse de ces conditions | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Fini | Partiellement il manque des élément |
+| Rédiger un texte en français des différentes informations issues de l'analyse | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Fini | Partiellement il manque des élément |
+| Rapport pour expliquer nos choix de logiciel | 16/10/2026 | 16/10/2026 | Toute l’équipe | Fini | Partiellement il manque des élément |
 | Relecture du document de la SAE | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | Fini | Oui |
 | Analyse (but, public visé et particularités) | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | Fini | Oui |
 | Réaliser un texte explicatif des données analysées | 16/10/2026 | 16/10/2026 |Théo PALUGAN / Lucas CHEN | Fini | Oui |
@@ -87,7 +87,10 @@ Les objectifs à atteindre pour le livrable 1 ont tous été atteint car nous av
 
 ### Livrable 2 : 
 
-Ce Livrables avait pour but d'analysé les conditions juridiques des données initiales de "IMDb"
+Ce Livrables avait pour but d'analysé les conditions juridiques des données initiales de "IMDb" dans ce cadre nous décider de réaliser cinqs partie disctinct.
+
+- La premiere avait pour but de fixé le périmetre sur ce que nous avoins le droit de faire et de ne pas faire, il se trouve que dans notre cas nous pouvions utiliser cette base de données mais a condidtion de ne pas mettre en ligne le projet.  
+- La seconde se concenter sur les containte téchnique qui nous sommes imposer par le fait d'utiliser cette base de données 
 
 
 
