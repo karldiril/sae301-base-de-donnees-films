@@ -57,19 +57,19 @@ Dépendances critiques : (Rouge)
 ## Répartition du travail et avancement : 
 
 
-| Tâches | Date début | Date Fin | Responsable | Avancement | Correspond aux attentes |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| Composition de l’équipe | 05/10/2026 | 10/10/2026 | Toute l’équipe | Terminé | Oui |
-| Nom d’équipe | 11/10/2026 | 11/10/2026 | Toute l’équipe | Terminé | Oui |
-| Planifier la répartition du rôle de manager | 11/10/2026 | 11/10/2026 | Théo PALUGAN | Terminé | Oui |
-| Créer un dépôt | 11/10/2026 | 11/10/2026 | Karl DIRIL / Théo PALUGAN | Terminé | Oui |
-| Lecture des conditions juridiques d’utilisation des données | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Terminé | Oui |
-| Analyse de ces conditions | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Terminé | Oui |
-| Rédiger un texte en français des différentes informations issues de l'analyse | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Terminé | Oui |
-| Rapport pour expliquer nos choix de logiciel | 16/10/2026 | 16/10/2026 | Toute l’équipe | Terminé | Oui |
-| Relecture du document de la SAE | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | Terminé | Oui |
-| Analyse (but, public visé et particularités) | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | Terminé | Oui |
-| Réaliser un texte explicatif des données analysées | 16/10/2026 | 16/10/2026 |Théo PALUGAN / Lucas CHEN | Terminé | Oui |
+| Tâches | Date début | Date Fin | Responsable | Avancement | Correspond aux attentes | difficulté rencontrée |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| Composition de l’équipe | 05/10/2026 | 10/10/2026 | Toute l’équipe | Terminé | Oui | |
+| Nom d’équipe | 11/10/2026 | 11/10/2026 | Toute l’équipe | Terminé | Oui | |
+| Planifier la répartition du rôle de manager | 11/10/2026 | 11/10/2026 | Théo PALUGAN | Terminé | Oui | |
+| Créer un dépôt | 11/10/2026 | 11/10/2026 | Karl DIRIL / Théo PALUGAN | Terminé | Oui | |
+| Lecture des conditions juridiques d’utilisation des données | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Terminé | Oui | L'anglais |
+| Analyse de ces conditions | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Terminé | Oui | Exception de règles |
+| Rédiger un texte en français des différentes informations issues de l'analyse | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Terminé | Oui | |
+| Rapport pour expliquer nos choix de logiciel | 16/10/2026 | 16/10/2026 | Toute l’équipe | Terminé | Oui | |
+| Relecture du document de la SAE | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | Terminé | Oui | |
+| Analyse (but, public visé et particularités) | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | Terminé | Oui | |
+| Réaliser un texte explicatif des données analysées | 16/10/2026 | 16/10/2026 |Théo PALUGAN / Lucas CHEN | Terminé | Oui | |
 
 
 ## Évaluation individuelle des livrables : 
