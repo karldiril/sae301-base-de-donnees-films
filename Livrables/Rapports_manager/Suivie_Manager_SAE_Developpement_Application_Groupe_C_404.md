@@ -96,6 +96,8 @@ Ce livrable avait pour but d'analyser les conditions juridiques des données ini
 - La quatrième concerne le fait que, dès lors que notre plateforme deviendrait un produit commercial ouvert et public et continuerait à utiliser leur jeu de données, il faudrait négocier un accord payant
 - La cinquième se focalise sur la protection des données personnelles. Vu que les données de la base de données ne sont pas personnelles, il n'y aura pas de problème avec le RGPD.
 
+La difficulté principale lors de ce livrable a été l'anglais et le choix des bonnes règles et des exceptions pour chacune d'entre elles.
+
 Nous avons donc atteint l'objectif de ce livrable, car nos différentes analyses nous permettent d'établir le périmètre pour cette base de données et de savoir ce que nous pouvons en faire et ce de manière légale. Ce travail nous a donc permis de mieux définir le cadre d'utilisation des données pour notre projet.
 
 
