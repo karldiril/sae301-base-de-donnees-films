@@ -45,7 +45,7 @@ Manager du 5/10/2026 au 18/10/2026.
 - Rédiger un texte explicatif des données analysées
 
 
-### Diagramme de Gantt (5/10/2026 au 18/10/2026): 
+## Diagramme de Gantt (5/10/2026 au 18/10/2026): 
 
 Flèche complète = séquentielle  
 Flèche en pointillés = parallèle  
@@ -54,7 +54,7 @@ Dépendances critiques : (Rouge)
 
 ![Diagramme de Gantt](Diagramme_Gantt/Diagramme_Gant_du_05_au18.png)
 
-### Répartition du travail et avancement : 
+## Répartition du travail et avancement : 
 
 
 | Tâches | Date début | Date Fin | Responsable | Avancer | Correspond aux attentes |
