@@ -47,12 +47,12 @@ Manager du 5/10/2026 au 18/10/2026.
 
 ### Diagramme de Gantt (5/10/2026 au 18/10/2026): 
 
-Flèche complète = séquentielle
-Flèche en pointillés = parallèle
-Les jalons : (Bleu)
-Dépendances critiques : (Rouge)
+Flèche complète = séquentielle  
+Flèche en pointillés = parallèle  
+Les jalons : (Bleu)  
+Dépendances critiques : (Rouge)  
 
-![Diagramme](Livrables/Rapports_manager/Diagramme_Gantt/Diagramme_Gant_du_05_au18.png)
+![Diagramme de Gantt](Diagramme_Gantt/Diagramme_Gant_du_05_au18.png)
 
 ### Répartition du travail et avancement : 
 
