@@ -1,7 +1,7 @@
 # Livrable 1 : Organisation de l’équipe et dépôt de code
 
 
-***Nom de l’équipe :*** 404 ( C )
+**Nom de l’équipe :** 404 ( C )
 
 Notre équipe est composée de quatre membres : 
 
