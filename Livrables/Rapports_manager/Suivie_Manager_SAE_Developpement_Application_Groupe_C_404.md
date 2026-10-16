@@ -40,8 +40,8 @@ Manager du 5/10/2026 au 18/10/2026.
 - Analyse : 
   - But du projet
   - Public visé par le projet
-  - Particularités du projets
-  - Securié du projet
+  - Particularités du projet
+  - Sécurité du projet
 - Rédiger un texte explicatif des données analysées
 
 
@@ -57,7 +57,7 @@ Dépendances critiques : (Rouge)
 ## Répartition du travail et avancement : 
 
 
-| Tâches | Date début | Date Fin | Responsable | Avancer | Correspond aux attentes |
+| Tâches | Date début | Date Fin | Responsable | Avancement | Correspond aux attentes |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Composition de l’équipe | 05/10/2026 | 10/10/2026 | Toute l’équipe | Fini | Oui |
 | Nom d’équipe | 11/10/2026 | 11/10/2026 | Toute l’équipe | Fini | Oui |
