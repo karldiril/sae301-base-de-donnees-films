@@ -72,14 +72,9 @@ Dépendances critiques : (Rouge)
 | Réaliser un texte explicatif des données analysées | 16/10/2026 | 16/10/2026 |Théo PALUGAN / Lucas CHEN | En cours | ? |
 
 
+## Évaluation individuelle des livrables : 
 
-
-
-
-
-Évaluation individuelle des tâches : 
-
-Livrable 1 : 
+### Livrable 1 : 
 
 Pour ce premier livrable, nous avons respecté les objectifs attendus et demandés avec la création et la composition de notre équipe que nous avons nommé “404”, nous avons donc réalisé une liste contenant tous les noms et prénoms de notre équipe.
 
@@ -90,15 +85,15 @@ Et pour finir nous avons créé un dépôt de code accessible à tous sur Github
 
 Les objectifs à atteindre pour le livrable 1 ont tous été atteint car nous avons correctement réalisé la composition de l’équipe, la planification du rôle de manager et la mise en place d’un dépôt de code accessible à tous.
 
-Livrable 2 : 
+### Livrable 2 : 
 
 
 
-Livrable 3 : 
+### Livrable 3 : 
 
 
 
-Livrable 4 : 
+### Livrable 4 : 
 
 
 
