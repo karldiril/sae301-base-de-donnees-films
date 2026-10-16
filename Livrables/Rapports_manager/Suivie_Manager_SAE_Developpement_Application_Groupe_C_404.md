@@ -98,7 +98,7 @@ Ce livrable avait pour but d'analyser les conditions juridiques des données ini
 
 La difficulté principale lors de ce livrable a été l'anglais et le choix des bonnes règles et des exceptions pour chacune d'entre elles.
 
-Nous avons donc atteint l'objectif de ce livrable, car nos différentes analyses nous permettent d'établir le périmètre pour cette base de données et de savoir ce que nous pouvons en faire et ce de manière légale. Ce travail nous a donc permis de mieux définir le cadre d'utilisation des données pour notre projet.
+Nous avons donc atteint l'objectif de ce livrable, car toutes les tâches à réaliser ont été correctement réalisées et donc grâce à nos différentes analyses nous permettent d'établir le périmètre pour cette base de données et de savoir ce que nous pouvons en faire et ce de manière légale. Ce travail nous a donc permis de mieux définir le cadre d'utilisation des données pour notre projet.
 
 
 
