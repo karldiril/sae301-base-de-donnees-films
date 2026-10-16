@@ -16,7 +16,7 @@ Ce projet intègre trois grands algorithmes : plus courte chaîne dans un graphe
 
 - Le premier aura pour but de réaliser une recherche approximative grâce à une plage de temps, par exemple avec des naissances, ou avec la création de films pour afficher tous les films du même réalisateur que le film recherché.
 - Le second devra permettre de faire des recherches sur les éléments en commun dans des films différents avec, par exemple, des duos d'acteurs.
-- Le troisième permettra de créer des liens entre les acteurs et les films dans le but de passer d'un acteur à un film dans lequel il a joué, puis à un autre acteur et ainsi de suite.
+- Le troisième permettra de créer des liens entre les acteurs et les films dans le but de passer d'un acteur à un film dans lequel il a joué, puis à un autre acteur et ainsi de suite.
 
 Elle utilisera plusieurs sources telles que POSTGRESQL, APACHE, Grafana, JavaScript, PHP, SQL, Bootstrap.
 
