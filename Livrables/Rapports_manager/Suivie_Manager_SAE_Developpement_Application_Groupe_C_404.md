@@ -10,8 +10,9 @@ Manager du 5/10/2026 au 18/10/2026.
 - Nom d’équipe
 - Planifier la répartition du rôle de manager
 - Créer un dépôt :
-- Github
-- Google Drive
+  - Github
+  - Google Drive
+  - Discord
 
 Livrable 2 : 
 
