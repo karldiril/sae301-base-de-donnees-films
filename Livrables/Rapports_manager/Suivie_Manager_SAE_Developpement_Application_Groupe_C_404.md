@@ -87,6 +87,8 @@ Les objectifs à atteindre pour le livrable 1 ont tous été atteint car nous av
 
 ### Livrable 2 : 
 
+Ce Livrables avait pour but d'analysé les conditions  juridiques des données initiales de
+
 
 
 ### Livrable 3 : 
