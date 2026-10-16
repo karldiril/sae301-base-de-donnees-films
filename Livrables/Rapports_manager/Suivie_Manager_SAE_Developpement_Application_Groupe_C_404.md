@@ -14,44 +14,47 @@ Manager du 5/10/2026 au 18/10/2026.
   - Google Drive
   - Discord
 
-Livrable 2 : 
+### Livrable 2 : 
 
-Lecture des conditions juridiques d’utilisation des données
-Analyse de ces conditions (droit et obligation)
-Rédiger un texte en français des différentes informations issues de l'analyse
+- Lecture des conditions juridiques d’utilisation des données
+- Analyse de ces conditions (droit et obligation)
+- Rédiger un texte en français des différentes informations issues de l'analyse
 
-Livrable 3 : 
+### Livrable 3 : 
 
-Si possible installer une distribution Linux (Ubuntu)
-Installation : 
-Visual Studio Code
-PostgreSQL
-Apache (apache2) 
-Bootstrap et Bootstrap icons
-JQuery
-Looping (AGL)
-Grafana
-PHP
-Faire un rapport pour expliquer nos choix
+- Si possible installer une distribution Linux (Ubuntu)
+- Installation : 
+  - Visual Studio Code
+  - PostgreSQL
+  - Apache (apache2) 
+  - Bootstrap et Bootstrap icons
+  - JavaScript
+  - Looping (AGL)
+  - Grafana
+  - PHP
+- Faire un rapport pour expliquer nos choix
 
-Livrable 4 : 
+### Livrable 4 : 
 
-Relecture du document de la SAE (“SAE 301 BUT2FA 2026-2027 Base de données de films ”) disponible sur le moodle.
-Analyse : 
-But du projet
-Public visé par le projet
-Particularités du projets
-Rédiger un texte explicatif des données analysées
+- Relecture du document de la SAE (“SAE 301 BUT2FA 2026-2027 Base de données de films ”) disponible sur le moodle.
+- Analyse : 
+  - But du projet
+  - Public visé par le projet
+  - Particularités du projets
+  - Securié du projet
+- Rédiger un texte explicatif des données analysées
 
 
-Diagramme de Gantt (5/10/2026 au 18/10/2026): 
+### Diagramme de Gantt (5/10/2026 au 18/10/2026): 
 
 Flèche complète = séquentielle
 Flèche en pointillés = parallèle
 Les jalons : (Bleu)
 Dépendances critiques : (Rouge)
 
-Répartition du travail et avancement : 
+![Diagramme](Diagramme_Gantt/)
+
+### Répartition du travail et avancement : 
 
 
 | Tâches | Date début | Date Fin | Responsable | Avancer | Correspond aux attentes |
