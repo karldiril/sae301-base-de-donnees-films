@@ -1,4 +1,4 @@
-Livrable 1 : Organisation de l’équipe et dépôt de code
+# Livrable 1 : Organisation de l’équipe et dépôt de code
 
 
 Nom de l’équipe : 404 ( C )
