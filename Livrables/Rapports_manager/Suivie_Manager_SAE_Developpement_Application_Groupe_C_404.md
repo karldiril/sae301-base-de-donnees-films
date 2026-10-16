@@ -57,7 +57,7 @@ Dépendances critiques : (Rouge)
 ## Répartition du travail et avancement : 
 
 
-| Tâches | Date début | Date Fin | Responsable | Avancement | Correspond aux attentes | difficulté rencontrée |
+| Tâches | Date début | Date Fin | Responsable | Avancement | Correspond aux attentes | Difficulté rencontrée |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | Composition de l’équipe | 05/10/2026 | 10/10/2026 | Toute l’équipe | Terminé | Oui | |
 | Nom d’équipe | 11/10/2026 | 11/10/2026 | Toute l’équipe | Terminé | Oui | |
