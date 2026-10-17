@@ -22,46 +22,46 @@ Nous avons décidé du nom du groupe "404" en référence à la fameuse erreur 4
 
 ### Individuel :  
 
-Création du fichier qui contiendra le suivi de tous les managers, avec notamment pour la création des objectifs des différents livrables pendant ma période de manager, pour ensuite passer à la réalisation d'un diagramme de Gantt, qui m'a permis de réaliser un tableau de la répartition du travail et de son avancement ainsi que des difficultés rencontrées pour celle-ci. De plus Rédaction de l'évaluation individuelle des tâches du livrables 1.
+Création du fichier qui contiendra le suivi de tous les managers, avec notamment pour la création des objectifs des différents livrables pendant ma période de manager, pour ensuite passer à la réalisation d'un diagramme de Gantt, qui m'a permis de réaliser un tableau de la répartition du travail et de son avancement ainsi que des difficultés rencontrées pour celle-ci. De plus, rédaction de l'évaluation individuelle des tâches du livrables 1.
 
 ## 3-Livrable 3 (16 Octobre 2026) :  
 
 ### Individuel : 
 
-Explication du choix des logiciel Looping et Grafana.
+Explication du choix des logiciels Looping et Grafana.
 
 ### Collectives :  
 
-Recherche d'information sur les version des logiciels, les extentions et les modules potentiel avec l'explication de nos choix.  
+Recherche d'informations sur les versions des logiciels, les extensions et les modules potentiels avec l'explication de nos choix.  
 
 ## 4-Livrable 4 (16 Octobre 2026) :  
 
 ### Individuel :  
 
-Recheche d'information et analyse dans le sujet de la SAE puis rédaction de l'analyse pour répondre aux questions qu'elle est le but et le public visé, en rajoutent une partie sur la sécurité, avec des modification apporter dans la partie particularité.
+Recherche d'information et analyse dans le sujet de la SAE puis rédaction de l'analyse pour répondre aux questions : quel est le but et le public visé, en rajoutant une partie sur la sécurité, avec des modifications apportées dans la partie particularité.
 
 ## 5-Suivi Manager (16 Octobre 2026) :  
 
 ### Individuel :  
 
-Lecture des différent livrables éffectuer notament le livrables 2 au qu'elle je n'ai pas participé puis, rédaction de l'évaluation individuelle des tâches des différent livrables notament les livrables 2 et 4. Le livrables n'était pas complet voici pourquoi je ne l'ai pas fait a ce moment là.  
+Lecture des différents livrables effectués, notamment le livrable 2 auquel je n'ai pas participé, puis rédaction de l'évaluation individuelle des tâches des différents livrables, notamment les livrables 2 et 4. Le livrable n'était pas complet, voici pourquoi je ne l'ai pas fait à ce moment-là.  
 
 ## 6-Livrable 3 (17 Octobre 2026) :  
 
 ### Collectives :  
 
-Recherche d'information sur les version des logiciels, les extentions et les modules potentiel avec l'explication de nos choix.  
+Recherche d'informations sur les versions des logiciels, les extensions et les modules potentiels avec l'explication de nos choix.  
 
 ## 7-Suivi Manager (17 Octobre 2026) :  
 
 ### Individuel :  
 
-Rédaction de l'évaluation individuelle des tâches du livrables 3 ainsi que la syntèse sur ma péridoe en tant que manager  
+Rédaction de l'évaluation individuelle des tâches du livrable 3 ainsi que la synthèse sur ma période en tant que manager. 
 
 ## 8-Livrables 2, 3, 4 et Suivi Manager (16-17 Octobre 2026) :  
 
 ### Individuel :  
 
-Véridicatin du contenu des livrables, relecture et mise en page. Ajout des PDF sur le Github et création des fichier Mardown des livrables 2, 3, 4 et le Suivi Manager avec le mise en page sur Github
+Vérification du contenu des livrables, relecture et mise en page. Ajout des PDF sur le Github et création des fichiers Markdown des livrables 2, 3, 4 et du Suivi Manager avec la mise en page sur Github.
 
 
