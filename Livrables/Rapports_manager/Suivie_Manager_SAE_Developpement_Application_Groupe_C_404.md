@@ -66,7 +66,7 @@ Dépendances critiques : (Rouge)
 | Lecture des conditions juridiques d’utilisation des données | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Terminé | Oui | L'anglais |
 | Analyse de ces conditions | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Terminé | Oui | Exception de règles |
 | Rédiger un texte en français des différentes informations issues de l'analyse | 15/10/2026 | 15/10/2026 | Manase SAMUEL DIAKOLO / Karl DIRIL | Terminé | Oui | |
-| Rapport pour expliquer nos choix de logiciel | 16/10/2026 | 16/10/2026 | Toute l’équipe | Terminé | Oui | |
+| Rapport pour expliquer nos choix de logiciel | 16/10/2026 | 16/10/2026 | Toute l’équipe | Terminé | Oui | Recherche des spécificités |
 | Relecture du document de la SAE | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | Terminé | Oui | |
 | Analyse (but, public visé et particularités) | 16/10/2026 | 16/10/2026 | Théo PALUGAN / Lucas CHEN | Terminé | Oui | |
 | Réaliser un texte explicatif des données analysées | 16/10/2026 | 16/10/2026 |Théo PALUGAN / Lucas CHEN | Terminé | Oui | |
