@@ -1,9 +1,10 @@
 # Livrable 3 : Plateforme de développement 
 
 
-Pour ce livrable, nous avons décidé d'expliquer le choix de nos logiciels en précisant pourquoi ce logiciel est adapté à nos besoins et ce qui nous attire sur le logiciel.
+Pour ce livrable, nous avons décidé d'expliquer dans un premier temps le choix de nos logiciels en précisant pourquoi ce logiciel est adapté à nos besoins et ce qui nous attire sur le logiciel. Dans un second temps, les précisions sur les logiciels.
 
----
+
+## 1. Explication des choix de logiciel
 
 <ins>***Visual Studio Code :***</ins>  
 Ici on a décidé de choisir Visual Studio Code comme environnement de développement (IDE) car il est gratuit, facile à utiliser et compatible avec divers langages de programmation. Il offre aussi de multiples extensions qui rendent le développement et le débogage du code plus simples. De plus, son intégration avec Git et GitHub nous offre la possibilité de collaborer en équipe, de partager notre code et de suivre les modifications effectuées sur le projet.
@@ -47,4 +48,36 @@ Face aux tendances actuelles du développement frontend, dominé par des approch
 
 De plus, contrairement à Tailwind CSS qui nécessite l’installation d’outils pour compiler le CSS, Bootstrap 5 peut être intégré beaucoup plus facilement, sans alourdir la configuration de notre environnement.
 
-Depuis sa version 5, Bootstrap s’appuie sur le JS vanilla, cela coïncide donc bien avec le reste de notre application et cela permet aussi un temps de rendu fluide pour l’utilisateur final.
+Depuis sa version 5, Bootstrap s’appuie sur le JS vanilla, cela coïncide donc bien avec le reste de notre application et cela permet aussi un temps de rendu fluide pour l’utilisateur final.  
+
+---
+
+## 2. Précisions logiciels
+
+### **Configuration initial :** 
+
+- Visual Studio Code version 1.142; extension PHP, SQL, Git, …
+- PostgreSQL version 18.6.0;
+- PHP version 8.5.11 avec PHP-FPM; extension PHP pdo_pgsql 
+- Apache (apache2) en mode Worker version 2.4.69;  module : mod_headers, mod_ssl, mod_proxy_fcgi et mod_proxy.
+- Looping version 4.1
+- Grafana version 13.2.4
+- JavaScript version ECMAScript 2015
+- Bootstrap version 5.3.8
+
+D'après nos recherches sur les différents logiciels dont nous pensons avoir besoin pour réaliser cette SAE, nous avons décidé de prendre les versions les plus récentes dans la plupart des logiciels, nous pensons que toutes ces versions sont compatibles entre elles. Pour VS Code, nous avons décidé d’ajouter des extensions pour faciliter la lecture du code et la gestion des erreurs.  
+
+Pour Apache, nous pensons avoir besoin d’utiliser le mode Worker et non le mode Prefork ou Event, car le mode Worker peut traiter des requêtes simultanément avec un processus, ce qui n’est pas le cas de Prefork et Event. Lui se focalise plus sur les connexions, ce qui nous intéresse moins dans notre cas.  
+
+Nous pensons également avoir besoin de *mod_proxy* qui devrait permettre la transmission de requêtes PHP à PHP-FPM et le module *mod_proxy_fcgi* doit permettre à Apache de communiquer avec PHP-FPM. Nous avons également trouvé que les modules *mod_header* et *mod_ssl* devraient nous être utiles pour sécuriser les en-têtes HTTP et les connexions HTTPS  
+
+Pour PHP-FPM, nous pensons utiliser ce service pour améliorer les performances de notre application, c’est-a-dire gérer le trafic et les calculs lourds, par exemple faire tourner les algorithmes rapidement sans planter ni ralentir. Il permet donc de choisir un processus disponible pour exécuter du code PHP.  
+
+Nous pensons que l’extension *pdo_pgsql* est nécessaire pour ce projet car, conformément aux exigences de sécurité du projet, il demande des requêtes préparées obligatoires (PDO) pour lutter contre les injections SQL, cette extension nous permet donc de le mettre en place.  
+
+Ceci représente une estimation des logiciels dont nous aurons besoin, néanmoins, si cela s’avère inutile ou si nous avons besoin d’autres logiciels, nous modifierons ou ajouterons des éléments par la suite.  
+
+
+
+
+
