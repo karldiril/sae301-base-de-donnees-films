@@ -125,5 +125,16 @@ Nous avons également remarqué que la sécurité est une grosse partie du proje
 
 Grâce à l'analyse du sujet de la SAE, nous avons pu réussir à réaliser ce livrable sans trop de difficultés. Nous avons donc réalisé un texte expliquant le but, le public visé, les particularités et la sécurité attendue, ce qui veut dire que tous les objectifs à atteindre ont été atteints. Ce livrable nous a permis de mieux comprendre les attendus de l'application et son utilité finale en plus du défi qui va nous être demandé pour être réalisé.
 
+---
+
+## Synthèse période manager : 
+
+Cette période en tant que manager m'a permis de reprendre la main sur la gestion de projet, notamment sur la création des différents objectifs, les diagrammes de Gantt et la répartition des tâches.  
+
+La réelle difficulté lors de cette période a été la gestion du temps, car au moment où j'étais manager du 5 au 18 octobre, l’université était bloquée et les cours annulés, ce qui a eu comme conséquence de changer l’organisation que j'avais prévue avec le diagramme de Gantt, puisque je comptais utiliser le temps réservé au SAE dans l'emploi du temps pour avancer, ce qui fait que le diagramme de Gantt n'a pas forcément été respecté, car faisant partie d’un groupe composé de trois alternants, ils se sont tous retrouvés en entreprise.  
+
+De plus, la communication avec les enseignants n’est pas forcément pratique via mail ou Discord, ce qui, je trouve, a compliqué la réalisation des livrables, parce que nous ne savions pas vraiment si nous allions dans la bonne direction. Même si monsieur Dubacq était plutôt réactif, il n’avait pas la possibilité de voir l'avancée de notre travail pour nous guider.  
+
+Malgré ces problèmes dus aux manifestations, notre équipe a réellement su tirer parti du temps qu’elle possédait avec une bonne coordination, méthode de travail et communication, ce qui a facilité la réalisation des différents livrables durant cette période. J’en garde une bonne expérience, qui aura été enrichissante et amusante.  
 
 
