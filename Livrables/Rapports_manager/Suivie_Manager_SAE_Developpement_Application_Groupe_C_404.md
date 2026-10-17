@@ -32,7 +32,7 @@ Manager du 5/10/2026 au 18/10/2026.
   - Looping (AGL)
   - Grafana
   - PHP
-- Faire un rapport pour expliquer nos choix
+- Faire un rapport pour expliquer nos choix et les spécificités  
 
 ### Livrable 4 : 
 
@@ -104,6 +104,13 @@ Nous avons donc atteint l'objectif de ce livrable, car toutes les tâches à ré
 
 ###  <ins> Livrable 3 :</ins>
 
+L'objectif du livrable 3 était de nous orienter sur les logiciels que nous allions devoir utiliser pour mener à bien le projet. Ce livrable a comme particularité de ne pas être figé, nous pouvons donc modifier nos choix en apportant des modifications ou des ajouts soit avec des logiciels, versions, modules, …   
+
+Pour ce faire, nous avons donc fait une liste explicative de chaque logiciel que nous pensons utile au projet et à la réalisation des livrables. Nous avons donc justifié dans nos explications pourquoi ce logiciel et non un autre, avec par exemple Looping et MySQL Workbench, ou encore en quoi ce logiciel va nous servir.   
+
+Dans un second temps, nous avons ajouté des précisions aux logiciels que nous avons sélectionnés, en mettant en évidence grâce aux informations que nous avons cherchées : la version que nous pensons utiliser, les extensions et les modules. Nous avons donc ensuite justifié nos choix des différentes spécificités que nous avons sélectionnées et qui pourraient correspondre aux attentes du projet.  
+
+L’objectif à atteindre était la mise en place d’une plateforme de développement, et cet objectif a été atteint car nous avons expliqué les logiciels à utiliser et pourquoi eux ainsi que leur spécificité.  
 
 
 ###  <ins> Livrable 4 :</ins>
