@@ -22,7 +22,7 @@ Nous avons décidé du nom du groupe "404" en référence à la fameuse erreur 4
 
 ### Individuel :  
 
-Création du fichier qui contiendra le suivi de tous les managers, avec notamment pour la création des objectifs des différents livrables pendant ma période de manager, pour ensuite passer à la réalisation d'un diagramme de Gantt, qui m'a permis de réaliser un tableau de la répartition du travail et de son avancement ainsi que des difficultés rencontrées pour celle-ci. De plus, rédaction de l'évaluation individuelle des tâches du livrables 1.
+Création du fichier qui contiendra le suivi de tous les managers, avec notamment la création des objectifs des différents livrables pendant ma période de manager, pour ensuite passer à la réalisation d'un diagramme de Gantt, qui m'a permis de réaliser un tableau de la répartition du travail et de son avancement ainsi que des difficultés rencontrées pour celle-ci. De plus, rédaction de l'évaluation individuelle des tâches du livrables 1.
 
 ## 3-Livrable 3 (16 Octobre 2026) :  
 
