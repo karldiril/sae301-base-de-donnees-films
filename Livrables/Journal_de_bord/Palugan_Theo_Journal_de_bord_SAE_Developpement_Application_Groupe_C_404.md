@@ -44,7 +44,7 @@ Recherche d'information et analyse dans le sujet de la SAE puis rédaction de l'
 
 ### Individuel :  
 
-Lecture des différents livrables effectués, notamment le livrable 2 auquel je n'ai pas participé, puis rédaction de l'évaluation individuelle des tâches des différents livrables, notamment les livrables 2 et 4. Le livrable n'était pas complet, voici pourquoi je ne l'ai pas fait à ce moment-là.  
+Lecture des différents livrables effectués, notamment le livrable 2 auquel je n'ai pas participé, puis rédaction de l'évaluation individuelle des tâches des différents livrables, notamment les livrables 2 et 4. Le livrable 3 n'était pas complet, voici pourquoi je ne l'ai pas fait à ce moment-là.  
 
 ## 6-Livrable 3 (17 Octobre 2026) :  
 
