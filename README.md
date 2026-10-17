@@ -1,5 +1,9 @@
 # SAE301-Developpement-Application 
 
+Application web permettant d'explorer, de croiser et d'analyser des données cinématographiques issues des interfaces publiques IMDb.
+
+Projet réalisé dans le cadre du **BUT 2 Informatique (FA)** à l'**IUT de Villetaneuse — Université Sorbonne Paris Nord** (Année 2026-2027).
+
 **Nom de l’équipe :** 404 ( C )
 
 **Notre équipe est composée de quatre membres :**
