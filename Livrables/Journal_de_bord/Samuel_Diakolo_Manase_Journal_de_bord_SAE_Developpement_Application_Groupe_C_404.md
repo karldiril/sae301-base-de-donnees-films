@@ -33,7 +33,7 @@ Recherche et justification du choix de Visual Studio Code comme environnement de
 
 Recherche d'informations sur les versions des logiciels, les extensions et les modules potentiels avec l'explication de nos choix.  
 
-## 4-Livrable 4 (16 Octobre 2026) :  
+## 4-Livrable 4 (17 Octobre 2026) :  
 
 ### Individuel :  
 J’ai pris le temps de relire le travail réalisé par mes camarades.
