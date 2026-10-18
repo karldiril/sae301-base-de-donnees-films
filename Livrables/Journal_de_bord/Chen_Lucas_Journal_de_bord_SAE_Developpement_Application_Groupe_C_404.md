@@ -17,14 +17,14 @@ Prise de connaissance appuyé sur le sujet de la SAE et ses spécificités.
 
 Nous avons décidé du nom du groupe "404" en référence à la fameuse erreur 404 not found.
 
-## 2-Livrable 2 :
+## 2-Livrable 2 (16 Octobre 2026) :
 
 ## Individuel : 
 
 Relecture du contenue du livrable 2 et ajout/modifications du contenue écrit.
 
 
-## 3-Livrable 3 (16 Octobre 2026) :  
+## 3-Livrable 3 (16/17 Octobre 2026) :  
 
 ### Individuel : 
 
