@@ -39,7 +39,7 @@ Recherche d'informations sur les versions des logiciels, les extensions et les m
 ## 4-Livrable 4 (16 Octobre 2026) :  
 
 ### Individuel :  
-Analyse des points clés dans le sujet de la SAE pour la rédaction du livrable 4 notamment sur toute la partie des particularités du projet, quelques modifications sur la partie du public visé.
+Analyse des points clés dans le sujet de la SAE pour la rédaction du livrable 4 notamment sur toute la partie des particularités du projet, et quelques modifications sur la partie du public visé.
 
 Relecture du contenue du livrable 4 et ajout/modifications du contenue écrit.
 
