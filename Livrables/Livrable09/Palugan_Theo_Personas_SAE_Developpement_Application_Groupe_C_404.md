@@ -8,3 +8,30 @@
 
 ---
 
+## Persona 1 :
+
+### État civil :
+  - prénom :
+  - nom : 
+  - illustration  
+
+### Situation sociale :
+  - âge :
+  - genre :
+  - catégorie socio-professionnelle :
+  - situation familiale :
+  - résidence :  
+
+### Comportement :
+  - but sur le site :
+  - comportement typique :
+  - résultats attendus :
+  - problèmes à éviter (“freins”) :
+
+### Usages typiques : 
+  - matériel utilisé :
+  - temps disponible :
+  - difficultés d'accessibilité :
+
+### Étape du parcours :
+
