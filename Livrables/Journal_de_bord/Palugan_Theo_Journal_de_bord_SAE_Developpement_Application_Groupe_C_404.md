@@ -62,6 +62,12 @@ Rédaction de l'évaluation individuelle des tâches du livrable 3 ainsi que la
 
 ### Individuel :  
 
-Vérification du contenu des livrables, relecture et mise en page. Ajout des PDF sur le Github et création des fichiers Markdown des livrables 2, 3, 4 et du Suivi Manager avec la mise en page sur Github.
+Vérification du contenu des livrables, relecture et mise en page. Ajout des PDF sur le Github et création des fichiers Markdown des livrables 2, 3, 4 et du Suivi Manager avec la mise en page sur Github.  
+
+## 9-Livrables 9 (29 Octobre 2026) :  
+
+### Individuel :  
+
+Recherche d'information sur la création d'un persona ainsi que les informations qui le constituent et mise en page de mon livrable 9. 
 
 
