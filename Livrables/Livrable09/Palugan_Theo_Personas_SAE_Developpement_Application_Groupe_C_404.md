@@ -10,32 +10,32 @@
 
 ## Persona 1 :
 
-### État civil :
+### <ins>État civil :</ins>
   - prénom :
   - nom : 
   - illustration
   - caractère : 
 
-### Situation sociale :
+### <ins>Situation sociale :</ins>
   - âge :
   - genre :
   - profession ou status :
   - situation familiale :
   - résidence :  
 
-### Comportement :
+### <ins>Comportement :</ins>
   - but sur le site :
   - comportement typique :
   - motivations : 
   - résultats attendus :
   - problèmes à éviter (“freins”) :
 
-### Usages typiques : 
+### <ins>Usages typiques :</ins>
   - matériel utilisé :
   - fréquence d'utilisation : 
   - temps disponible :
   - difficultés d'accessibilité :
   - niveau de maîtrise informatique : 
 
-### Étape du parcours :
+### <ins>Étape du parcours :</ins>
 
