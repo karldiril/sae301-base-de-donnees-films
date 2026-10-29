@@ -10,32 +10,50 @@
 
 ## Persona 1 :
 
-### <ins>État civil :</ins>
+### <ins>État civil :</ins>  
+
   - prénom :
   - nom : 
   - illustration
-  - caractère : 
+  - caractère :   
 
-### <ins>Situation sociale :</ins>
+### <ins>Situation sociale :</ins>  
+
   - âge :
   - genre :
   - profession ou status :
   - situation familiale :
-  - résidence :  
+  - résidence :   
 
-### <ins>Comportement :</ins>
+### <ins>Comportement :</ins>  
+
   - but sur le site :
   - comportement typique :
   - motivations : 
   - résultats attendus :
-  - problèmes à éviter (“freins”) :
+  - problèmes à éviter (“freins”) :  
 
-### <ins>Usages typiques :</ins>
+### <ins>Usages typiques :</ins>  
+
   - matériel utilisé :
   - fréquence d'utilisation : 
   - temps disponible :
   - difficultés d'accessibilité :
-  - niveau de maîtrise informatique : 
+  - niveau de maîtrise informatique :  
 
-### <ins>Étape du parcours :</ins>
+### <ins>Étape du parcours :</ins>  
+
+blabla bla  
+
+## User Stories Persona 1 (Nom Prénom):  
+
+blablabla  
+
+</br>  
+
+## Persona 2 :
+
+
+
+
 
