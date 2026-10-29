@@ -13,25 +13,29 @@
 ### État civil :
   - prénom :
   - nom : 
-  - illustration  
+  - illustration
+  - caractère : 
 
 ### Situation sociale :
   - âge :
   - genre :
-  - catégorie socio-professionnelle :
+  - profession ou status :
   - situation familiale :
   - résidence :  
 
 ### Comportement :
   - but sur le site :
   - comportement typique :
+  - motivations : 
   - résultats attendus :
   - problèmes à éviter (“freins”) :
 
 ### Usages typiques : 
   - matériel utilisé :
+  - fréquence d'utilisation : 
   - temps disponible :
   - difficultés d'accessibilité :
+  - niveau de maîtrise informatique : 
 
 ### Étape du parcours :
 
