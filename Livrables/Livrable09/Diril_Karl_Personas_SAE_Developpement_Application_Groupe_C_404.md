@@ -46,7 +46,7 @@
   Parcours : Page de la série -> Section Acteurs jouant dans la série -> Clic sur son profil -> Section fiche <br>
   Point de friction : Risque d'abandon si son nom est noyé dans la liste complète du casting sans filtre ou recherche rapide <br>
 
-## User Stories Persona 1 (Nom Prénom):  
+## User Stories Persona 1 (Bryan Crans):  
 
 ### Storie 1 (Recherche)
   - En tant qu'acteur consultant la fiche d'une série, <br> Je veux filtrer 
@@ -104,9 +104,9 @@
 
   Etape : Recherche exploratoire et filtrage multicritère <br>
   Parcours : Page d'accueil / Recherche -> Sélection de l'année en cours -> Application du tri par note décroissante -> Consultation du résumé du premier film pertinent<br>
-  Point de friction : Ralentissement sur de l'interface lors du chargement des résultats ou résultats pollués avec des films ayant trop peu de votes<br>
+  Point de friction : Ralentissement de l'interface lors du chargement des résultats ou résultats pollués avec des films ayant trop peu de votes<br>
 
-## User Stories Persona 1 (Nom Prénom):  
+## User Stories Persona 2 (Gentil Benoit):  
 
 ### Storie 1 (Filtrage et tri multicritères)
   - En tant qu'étudiant cherchant un film pour la soirée, <br> Je veux pouvoir filtrer les films par année de sortie et les trier par note moyenne décroissante <br>
