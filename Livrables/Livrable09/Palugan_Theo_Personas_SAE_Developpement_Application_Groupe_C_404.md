@@ -12,34 +12,34 @@
 
 ### <ins>État civil :</ins>  
 
-  - prénom :
-  - nom : 
-  - illustration
-  - caractère :   
+  - Prénom : Jean
+  - Nom : Crütsi
+  - Illustration : 
+  - Caractère : Entreprenant, bienveillant, susceptible et colérique.
 
 ### <ins>Situation sociale :</ins>  
 
-  - âge :
-  - genre :
-  - profession ou status :
-  - situation familiale :
-  - résidence :   
+  - Âge : 26 ans
+  - Genre : Homme
+  - Profession ou status : Pizzaiolo
+  - Situation familiale : Père celibataire de 2 enfant (un fils et une fille)
+  - Résidence : Rochefourchat (Drôme)
 
 ### <ins>Comportement :</ins>  
 
-  - but sur le site :
-  - comportement typique :
-  - motivations : 
-  - résultats attendus :
-  - problèmes à éviter (“freins”) :  
-
+  - But sur le site : Recherche un bon film italien à diffuser dans son restaurant pour un événement centré sur des spécialités italiennes.
+  - Comportement typique : Recherche le mot italien dans la barre de recherche et regarde les notes.
+  - Motivations : Fidéliser sa clientèle grâce à l'ambiance que procure le film pour faire parler de son restaurant.
+  - Résultats attendus : La fiche d'un film italien bien noté qui lui permet de voir si le film correspond à l'ambiance qu'il souhaite installer dans son restaurant.
+  - Problèmes à éviter (“freins”) :  Submergé de film avec le mot italien dans le titre ou de réalisateur italiens qui non pas forcement produit de film typiquement italiens.
+  - 
 ### <ins>Usages typiques :</ins>  
 
-  - matériel utilisé :
-  - fréquence d'utilisation : 
-  - temps disponible :
-  - difficultés d'accessibilité :
-  - niveau de maîtrise informatique :  
+  - Matériel utilisé :
+  - Fréquence d'utilisation : 
+  - Temps disponible :
+  - Difficultés d'accessibilité :
+  - Niveau de maîtrise informatique :  
 
 ### <ins>Étape du parcours :</ins>  
 
