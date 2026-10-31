@@ -9,39 +9,43 @@
 
 ### <ins>État civil :</ins>  
 
-  - prénom :
-  - nom : 
-  - illustration
-  - caractère :   
+  - prénom : Camille
+  - nom :Moreau
+  - caractère :curieuse,barvarde, pationnée
 
 ### <ins>Situation sociale :</ins>  
 
-  - âge :
-  - genre :
-  - profession ou status :
-  - situation familiale :
-  - résidence :   
+  - âge : 34 ans
+  - genre : femme
+  - profession ou status : professeur de lycée, responsable du club de ciné du lycée
+  - situation familiale : en couple
+  - résidence : Paris
 
 ### <ins>Comportement :</ins>  
 
-  - but sur le site :
-  - comportement typique :
-  - motivations : 
-  - résultats attendus :
-  - problèmes à éviter (“freins”) :  
+  - but sur le site : explorer en détail la filmographie d’un réalisateur ou d’un acteur, retrouver un film dont elle ne se rappelle qu’une partie du titre pour préparer ses séances de ciné-club.
+  - comportement typique : commence par une recherche simple, affine avec la recherche avancée (période, type).
+  - motivations : enrichir sa culture, préparer des cycles thématiques, gagner du temps par rapport à la consultation de plusieurs sites.
+  - résultats attendus :des fiches complètes et retrouver le film qu'elle cherche même avec qu'une partie du titre du film
+  - problèmes à éviter (“freins”) :  résultats trop nombreux et non filtrables, confusion entre films, séries et épisodes,site lent, orthographe d’un nom étranger qui bloque la recherche.
 
 ### <ins>Usages typiques :</ins>  
 
-  - matériel utilisé :
-  - fréquence d'utilisation : 
-  - temps disponible :
-  - difficultés d'accessibilité :
-  - niveau de maîtrise informatique :  
+  - matériel utilisé : ordinateur portable, telephone
+  - fréquence d'utilisation : tout les jours en moyenne
+  - temps disponible :30 a 45 min de recherche et de renseignement
+  - difficultés d'accessibilité :aucune
+  - niveau de maîtrise informatique :  a l'aise
 
 ### <ins>Étape du parcours :</ins>  
 
 
 ## User Stories Persona 1 (Nom Prénom):  
+-En tant que cinéphile, je veux rechercher un film par son titre, même partiellement ou mal orthographié, afin de le retrouver quand je ne me souviens que d’une partie du nom.
+
+En tant que cinéphile, je veux voir la fiche complète d’une personne (rôles, films réalisés, dates) et naviguer vers ses films, afin d’explorer sa carrière.
+
+-En tant qu’animatrice de ciné-club, je veux trier les résultats par date ou par ordre alphabétique, afin de construire une programmation lisible.
 
 
 </br>   
