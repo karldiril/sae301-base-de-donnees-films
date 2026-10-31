@@ -40,7 +40,7 @@
 ### <ins>Étape du parcours :</ins>  
 
 
-## User Stories Persona 1 (Nom Prénom):  
+## User Stories Persona 1 :  
 -En tant que cinéphile, je veux rechercher un film par son titre, même partiellement ou mal orthographié, afin de le retrouver quand je ne me souviens que d’une partie du nom.
 
 En tant que cinéphile, je veux voir la fiche complète d’une personne (rôles, films réalisés, dates) et naviguer vers ses films, afin d’explorer sa carrière.
@@ -50,5 +50,49 @@ En tant que cinéphile, je veux voir la fiche complète d’une personne (rôles
 
 </br>   
 
----
 ## Persona 2 :
+
+### <ins>État civil :</ins>  
+
+  - prénom :Karim 
+  - nom : Haddad
+  - caractère : Fan de séries,entousiaste
+
+### <ins>Situation sociale :</ins>  
+
+  - âge : 16ans
+  - genre : Homme
+  - profession ou status : Étudiant
+  - situation familiale : vit chez ses parents
+  - résidence : Villetaneuse
+
+### <ins>Comportement :</ins>  
+
+  - but sur le site : retrouver les acteurs d’une série, voir la liste de ses épisodes et découvrir dans quels autres projets ont joués ses acteurs préférés.
+  - comportement typique : cherche le titre d’une série, ouvre la fiche, parcourt les épisodes puis clique sur un acteur pour voir ses autres rôles ; enchaîne plusieurs pages à la suite.
+  - motivations : nourrir les discussions avec ses amis, trouver quoi regarder ensuite.
+  - résultats attendus : une fiche série claire avec ses épisodes, des liens directs vers les acteurs qui donnentet dans quels films ou series où il a joué, des résultats instantanés.
+  - problèmes à éviter (“freins”) :confusion entre série et épisode, pages trop longues, texte trop dense,mauvais films ou series liés a l'acteur
+
+### <ins>Usages typiques :</ins>  
+
+  - matériel utilisé : téléphone
+  - fréquence d'utilisation : tous les jours
+  - temps disponible : plusieurs heures dans la journée
+  - difficultés d'accessibilité : petit ecran
+  - niveau de maîtrise informatique : aucune
+
+### <ins>Étape du parcours :</ins>  
+
+
+
+## User Stories Persona 2 :  
+-En tant que fan de séries, je veux voir la liste des épisodes d’une série depuis sa fiche, afin de retrouver un épisode précis.
+
+-En tant qu’utilisateur, je veux voir tout de suite si un résultat est un film, une série ou un épisode, afin de ne pas me tromper de fiche.
+
+-En tant qu'utilisateur, je veux pouvoir voir les films et les séries dans lequels mes acteurs préférés ont joués.
+
+
+</br>   
+
