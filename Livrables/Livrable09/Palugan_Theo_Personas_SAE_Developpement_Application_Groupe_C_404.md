@@ -56,14 +56,14 @@
 
 ### Storie 2 (Accès au profil)
   - En tant qu'utilisateur sur un ordinateur portable, <br>
-    Je veux que l'affichage des fiches soit correctement proportionné sur mon écran et pratique à naviguer avec un pavé digital, <br>
+    Je veux que l'affichage des fiches soit correctement proportionné sur mon écran et pratique à naviguer avec un pavé tactile, <br>
     Afin de ne pas m'abimer les yeux à devoir me rapprocher de l'écran, zoomer ou que l'affichage soit incomplet et de ne pas être frustré par une difficulté due à la navigation dans la page. <br>
 
 ### Storie 3 (Accessibilité)
 
   - En tant que daltonien, ne voient que le noir et blanc, <br>
     Je veux que le contraste entre les couleurs soit élever, <br>
-    Afin de pouvoir correctement voir toutes les informations et ma navigation sur le site. <br>  
+    Afin de pouvoir correctement voir toutes les informations et ma navigation sur le site et qu'il n'y ait pas d'information transmise par la couleur. <br>  
 
 </br>   
 
