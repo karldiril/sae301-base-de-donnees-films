@@ -104,26 +104,26 @@
 
   - **Etape :** Filtre / Année 50 et romance <br>
   - **Parcours :** Page d'accueil -> Filtre -> page des films -> fiche d'un film <br>
-  - **Point de friction :** Ne réutilisera jamais le site si elle ne trouve pas ce qu'elle est venue chercher, et ce rapidement ; il faut donc que la navigation du site soit claire. <br>
+  - **Point de friction :** Ne réutilisera jamais le site si elle ne trouve pas ce qu'elle est venue chercher, et ce rapidement. Il faut donc que la navigation du site soit claire. <br>
 
-## User Stories Persona 1 (Jean Crütsi) :  
+## User Stories Persona 1 (Lise Parquet) :  
 
 ### Storie 1 (Recherche)  
 
-  - En tant que pizzaiolo recherchant un bon film italien, <br>
-    Je veux pouvoir filtrer les films, acteurs, genres et notes, <br>
-    Afin de trouver un film typiquement italien qui conviendrait à l'ambiance de mon restaurant. <br>
+  - En tant que styliste recherchant des films des années 50, <br>
+    Je veux pouvoir filtrer les dates de sortie et les genres, <br>
+    Afin de trouver un film qui contient un style vestimentaire typique des années 50 pour mon travail. <br>
 
 ### Storie 2 (Accès au profil)
-  - En tant qu'utilisateur sur un ordinateur portable, <br>
-    Je veux que l'affichage des fiches soit correctement proportionné sur mon écran et pratique à naviguer avec un pavé tactile, <br>
-    Afin de ne pas m'abimer les yeux à devoir me rapprocher de l'écran, zoomer ou que l'affichage soit incomplet et de ne pas être frustré par une difficulté due à la navigation dans la page. <br>
+  - En tant qu'utilisateur sur un ordinateur, <br>
+    Je veux pouvoir me déplacer uniquement avec le clavier sans avoir besoin de ma souris, <br>
+    Afin de ne pas me prendre la tête pour alterner entre la souris et le clavier.  <br>
 
 ### Storie 3 (Accessibilité)
 
-  - En tant que daltonien, ne voient que le noir et blanc, <br>
-    Je veux que le contraste entre les couleurs soit élever, <br>
-    Afin de pouvoir correctement voir toutes les informations et ma navigation sur le site et qu'il n'y ait pas d'information transmise par la couleur. <br>  
+  - En tant que légère dyslexique <br>
+    Je veux que le polie d'écriture ne soit pas trop compliquer a lire, <br>
+    Afin de pouvoir correctement regarder et analyser les films qui me conviendrait. <br>  
 
 </br>   
 
