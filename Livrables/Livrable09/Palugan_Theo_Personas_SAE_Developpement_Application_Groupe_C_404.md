@@ -121,8 +121,8 @@
 
 ### Storie 3 (Accessibilité)
 
-  - En tant que légère dyslexique <br>
-    Je veux que le polie d'écriture ne soit pas trop compliquer a lire, <br>
+  - En tant qu'utilisatrice présentant une dyslexie légère. <br>
+    Je veux que le police d'écriture ne soit pas trop dificil a lire, <br>
     Afin de pouvoir correctement regarder et analyser les films qui me conviendrait. <br>  
 
 </br>   
